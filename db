@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "GHF5KJhjhH1",
+      "name": "Brad Gibson",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "987456321",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "groupId": "3"
+    },
+    {
+      "id": "HTF5KJhjhH2",
+      "name": "Mark Zuckerberg",
+      "company": "Facebook",
+      "email": "mark@gmail.com",
+      "title": "Marketing Manager",
+      "mobile": "987456321",
+      "photo": "https://www.biography.com/.image/t_share/MTQyMDA0NDgwMzUzNzcyNjA2/mark-zuckerberg_gettyimages-512304736jpg.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "MKL5KJhhfH3",
+      "name": "Elon Musk",
+      "company": "Tesla",
+      "email": "brad@gmail.com",
+      "title": "Driver",
+      "mobile": "987456321",
+      "photo": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "ERF5KJhlkH4",
+      "name": "Bill Gates",
+      "company": "Microsoft",
+      "email": "bill@gmail.com",
+      "title": "Director",
+      "mobile": "987456321",
+      "photo": "https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
